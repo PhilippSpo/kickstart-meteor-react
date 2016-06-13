@@ -25,3 +25,4 @@ blaze-html-templates
 standard-minifier-css
 standard-minifier-js
 thereactivestack:blazetoreact
+dispatch:mocha-phantomjs

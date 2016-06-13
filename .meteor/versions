@@ -23,6 +23,9 @@ ddp-rate-limiter@1.0.4
 ddp-server@1.2.6
 deps@1.0.12
 diff-sequence@1.0.5
+dispatch:mocha-core@0.0.2
+dispatch:mocha-phantomjs@0.1.5
+dispatch:phantomjs-tests@0.0.5
 ecmascript@0.4.3
 ecmascript-runtime@0.2.10
 ejson@1.0.11
@@ -53,10 +56,11 @@ modules@0.6.1
 modules-runtime@0.6.3
 mongo@1.1.7
 mongo-id@1.0.4
-npm-bcrypt@0.8.5
+npm-bcrypt@0.8.6_1
 npm-mongo@1.4.43
 observe-sequence@1.0.11
 ordered-dict@1.0.7
+practicalmeteor:mocha-core@0.1.4
 promise@0.6.7
 random@1.0.9
 rate-limit@1.0.4
@@ -86,9 +90,9 @@ webapp@1.2.8
 webapp-hashing@1.0.9
 webpack:assets@1.0.1
 webpack:core-config@1.0.1
-webpack:css@1.1.1
+webpack:css@1.1.2
 webpack:json@1.0.1
 webpack:npmworkaround@1.0.0
-webpack:react@1.2.1
-webpack:reload@1.0.0
-webpack:webpack@1.2.0
+webpack:react@1.2.2
+webpack:reload@1.0.1
+webpack:webpack@1.3.3
